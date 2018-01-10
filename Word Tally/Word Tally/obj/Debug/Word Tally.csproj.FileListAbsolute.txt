@@ -5,3 +5,10 @@ C:\Users\woodmich952\Documents\Visual Studio 2015\Projects\Word Tally\Word Tally
 C:\Users\woodmich952\Documents\Visual Studio 2015\Projects\Word Tally\Word Tally\obj\Debug\Word Tally.csprojResolveAssemblyReference.cache
 C:\Users\woodmich952\Documents\Visual Studio 2015\Projects\Word Tally\Word Tally\obj\Debug\Word Tally.exe
 C:\Users\woodmich952\Documents\Visual Studio 2015\Projects\Word Tally\Word Tally\obj\Debug\Word Tally.pdb
+C:\Users\woodmich952\Documents\GitHub\Word-Tally\Word Tally\Word Tally\bin\Debug\Word Tally.exe.config
+C:\Users\woodmich952\Documents\GitHub\Word-Tally\Word Tally\Word Tally\obj\Debug\Word Tally.exe
+C:\Users\woodmich952\Documents\GitHub\Word-Tally\Word Tally\Word Tally\obj\Debug\Word Tally.pdb
+C:\Users\woodmich952\Documents\GitHub\Word-Tally\Word Tally\Word Tally\obj\Debug\Word Tally.csprojResolveAssemblyReference.cache
+C:\Users\woodmich952\Documents\GitHub\Word-Tally\Word Tally\Word Tally\bin\Debug\passage.txt
+C:\Users\woodmich952\Documents\GitHub\Word-Tally\Word Tally\Word Tally\bin\Debug\Word Tally.exe
+C:\Users\woodmich952\Documents\GitHub\Word-Tally\Word Tally\Word Tally\bin\Debug\Word Tally.pdb
