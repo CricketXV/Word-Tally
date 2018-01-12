@@ -23,12 +23,22 @@ namespace Word_Tally
 				{
 					if (c >= 97 && c <= 122 || c == 32) 
 					{
-						stripped += c;													
+						stripped += c;
 					}
 				}
+//				Console.WriteLine (stripped);
 				String[] words = stripped.Split (' ');
 				SortedDictionary <string, int> dictionary = new SortedDictionary <string, int> ();
+//			
 
+				for (int k = 0; k < words.Length; k++) 
+				{
+					if (words [k] == null) 
+					{
+						Array.remove (words, k);
+					}
+					Console.WriteLine (words[k]);
+				}
 
 			}  
 	   }
